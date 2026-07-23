@@ -23,7 +23,7 @@
 }
 
 .right {
-  width: 70;
+  width: 70%;
   background-color: #181823;
 }
 
@@ -35,17 +35,6 @@
   padding: 0 72px;
 }
 
-.hero-section {
-  background-color: #181823;
-}
-
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 88px;
-  padding: 0 72px;
-}
 .menu {
   display: flex;
   align-items: center;
@@ -100,4 +89,10 @@
 
 .desriptiption {
   font-size: 18px;
+}
+
+.experience-section {
+  background-color: #000000;
+  padding: 120px 72px;
+  color: #ffffff;
 }
