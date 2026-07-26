@@ -94,5 +94,26 @@
 .experience-section {
   background-color: #000000;
   padding: 120px 72px;
+  color: #8491a0;
+}
+.green {
+  color: #3cc74e;
+}
+.card-title {
   color: #ffffff;
+}
+.blue {
+  color: #609bff;
+}
+.pink {
+  color: #e95d90;
+}
+.main-title {
+  color: #ffffff;
+}
+.main-title {
+  width: 690px;
+  height: 132px;
+  top: 152px;
+  left: 72px;
 }
