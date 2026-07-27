@@ -111,9 +111,31 @@
 .main-title {
   color: #ffffff;
 }
+
+.title {
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: bold;
+}
+
 .main-title {
-  width: 690px;
-  height: 132px;
-  top: 152px;
-  left: 72px;
+  font-size: 55px;
+  font-weight: 700px;
+  margin: 8px 0 40px;
+}
+
+.cards-wrapper {
+  display: flex;
+}
+.series {
+  color: #8491a0;
+}
+
+.fontstyle {
+  text-transform: uppercase;
+  font-size: 40px;
+}
+
+.card-number {
+  font-size: 90px;
 }
