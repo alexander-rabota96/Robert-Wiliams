@@ -139,3 +139,11 @@
 .card-number {
   font-size: 90px;
 }
+
+.card-number {
+  padding: 20px;
+}
+
+.card-title {
+  margin-bottom: 30px;
+}
