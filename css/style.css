@@ -82,7 +82,7 @@
 }
 
 .content h1 {
-  font-size: 78;
+  font-size: 78px;
   font-weight: 700;
   margin-bottom: 32px;
 }
@@ -119,8 +119,8 @@
 }
 
 .main-title {
-  font-size: 55px;
-  font-weight: 700px;
+  font-size: 70px;
+  font-weight: 700;
   margin: 8px 0 40px;
 }
 
@@ -132,9 +132,8 @@
 }
 
 .fontstyle {
-  text-transform: uppercase;
   font-size: 40px;
-  line-height: 50px;
+  line-height: 78px;
 }
 
 .card-number {
@@ -142,7 +141,7 @@
 }
 
 .card-number {
-  padding: 40px;
+  padding: 40px 40px 40px 0px;
 }
 
 .card-title {
