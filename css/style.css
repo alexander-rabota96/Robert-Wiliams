@@ -161,7 +161,13 @@
 }
 .values-image-container {
   height: 600px;
+  width: 50%;
+}
+
+.values-image-container img {
+  height: 600px;
   object-fit: cover;
+  width: 100%;
 }
 
 .values-description {
@@ -170,26 +176,33 @@
   font-size: 18px;
   line-height: 150%;
   letter-spacing: 0;
-  vertical-align: middle;
-  margin-top: 40px;
+  margin-top: 24px;
 }
 
 .values-style {
   font-family: #181823;
-  font-weight: 700;
-  font-size: 55px;
-  line-height: 100%;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 160%;
   letter-spacing: 0%;
   vertical-align: middle;
 }
 
-.values-section {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .values-content {
   width: 50%;
-  object-fit: cover;
+  padding: 120px 72px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.values-button {
+  display: inline-flex;
+  align-items: center;
+  background-color: #fff3e4;
+  height: 88px;
+  width: 200px;
+  justify-content: center;
+  color: #181823;
+  text-decoration: none;
 }
