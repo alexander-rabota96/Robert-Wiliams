@@ -24,7 +24,7 @@
 
 .right {
   width: 70%;
-  background-color: #181823;
+  background-color: #000000;
 }
 
 .navbar {
@@ -267,4 +267,11 @@
 
 .Design {
   width: 50%;
+}
+
+.my-container {
+  display: flex;
+  background-color: #000000;
+  justify-content: space-between;
+  padding: 20px;
 }
