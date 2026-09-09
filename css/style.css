@@ -331,9 +331,9 @@
 }
 
 .Instagram-button {
-  background-color: #000000;
   text-decoration: underline;
   text-underline-offset: 10px;
+  color: #000000;
 }
 
 .portfolio-section {
@@ -357,7 +357,7 @@
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0%;
-  margin: 8px;
+  margin: 0;
 }
 
 .card-title-2 {
@@ -366,4 +366,28 @@
   font-size: 55px;
   line-height: 100%;
   letter-spacing: 0%;
+  margin: 8px 0 80px;
+}
+
+.Website {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  margin: 8px 0 16px;
+}
+
+.Design {
+  background-color: #181823;
+  padding: 24px;
+}
+
+.Website-description {
+  color: #8491a0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  margin: 8px 0 16px;
 }
