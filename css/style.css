@@ -265,8 +265,8 @@
   padding-right: 48px;
 }
 
-.Design {
-  width: 50%;
+.new-class {
+  width: 100%;
 }
 
 .my-container {
@@ -352,7 +352,7 @@
 }
 
 .card-title {
-  color: #8491a0;
+  color: #ffffff;
   font-weight: 700;
   font-size: 16px;
   line-height: 150%;
@@ -378,9 +378,8 @@
   margin: 8px 0 16px;
 }
 
-.Design {
-  background-color: #181823;
-  padding: 24px;
+.new-class {
+  width: 100%;
 }
 
 .Website-description {
