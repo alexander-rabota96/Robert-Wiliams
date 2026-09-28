@@ -351,8 +351,8 @@
   width: 50%;
 }
 
-.card-title {
-  color: #ffffff;
+.card-portfolio-title {
+  color: #8491a0;
   font-weight: 700;
   font-size: 16px;
   line-height: 150%;
@@ -369,7 +369,7 @@
   margin: 8px 0 80px;
 }
 
-.Website {
+.card-portfolio-Website {
   color: #ffffff;
   font-weight: 700;
   font-size: 24px;
@@ -377,16 +377,20 @@
   letter-spacing: 0%;
   margin: 8px 0 16px;
 }
-
-.new-class {
-  width: 100%;
-}
-
-.Website-description {
+.card-portfolio-description {
   color: #8491a0;
   font-weight: 400;
   font-size: 18px;
   line-height: 150%;
   letter-spacing: 0%;
   margin: 8px 0 16px;
+}
+
+.Design {
+  width: 100%;
+}
+
+.card-portfolio-images {
+  background-color: #181823;
+  width: 100%;
 }
