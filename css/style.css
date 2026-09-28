@@ -392,5 +392,10 @@
 
 .card-portfolio-images {
   background-color: #181823;
+}
+
+.img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
