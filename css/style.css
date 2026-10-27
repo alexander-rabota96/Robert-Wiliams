@@ -349,9 +349,11 @@
 
 .portfolio-left {
   width: 50%;
+  gap: 24px;
 }
 .portfolio-right {
   width: 50%;
+  gap: 24px;
 }
 
 .card-portfolio-title {
@@ -393,7 +395,7 @@
   width: 100%;
 }
 
-.card-portfolio-images {
+.card-portfolio-image {
   background-color: #181823;
 }
 
